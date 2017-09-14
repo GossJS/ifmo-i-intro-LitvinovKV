@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<AboutMe>
+		<title>This is about me and my knowledge of web</title>
+		<MyKnowledges>
+			<Knowledge in="HTML" value="not good"/>
+			<Knowledge in="CSS3" value="not good"/>
+			<Knowledge in="AJAX" value="not good"/>
+			<Knowledge in="JSON" value="not good"/>
+			<Knowledge in="PHP" value="not good"/>
+			<Knowledge in="JS" value="not good"/>
+			<Knowledge in="BootStrap" value="not good"/>
+			<Knowledge in="HTTP" value="not good"/>
+			<Knowledge in="DOM" value="not good"/>
+			<Knowledge in="SQL" value="not good"/>
+		</MyKnowledges>		
+	</AboutMe>
